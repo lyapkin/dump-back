@@ -1,0 +1,29 @@
+.ck.ck-editor__main p,
+.ck.ck-editor__main h1,
+.ck.ck-editor__main h2,
+.ck.ck-editor__main h3,
+.ck li,
+.ck ul,
+.ck ol {
+  color: black !important;
+  padding-left: 0 !important;
+}
+
+.ck.ck-editor__main h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.ck.ck-editor__main h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ck.ck-editor__main h3 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.ck.ck-editor__main p {
+  font-size: 14px;
+}

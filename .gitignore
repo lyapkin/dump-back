@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+/visota/static/
+db.sqlite3
+media/
+db.json
+_delete/
+.prettierignore
+logs/
+.vscode
